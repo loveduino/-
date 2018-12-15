@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>D:\CORTEX_M0_STM32F030_IAR\Projects\STM32F0xx_APP\protocol.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\CORTEX_M0_STM32F030_IAR\Projects\STM32F0xx_APP\src\protocol.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>D:\CORTEX_M0_STM32F030_IAR\Projects\STM32F0xx_APP\src\ymodem.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>E:\RFID\CORTEX_M0_STM32F030_IAR\Projects\STM32F0xx_APP\inc\main.h</path>
+        <encoding>GB2312</encoding>
+    </override>
+    <override>
+        <path>E:\RFID\CORTEX_M0_STM32F030_IAR\Projects\STM32F0xx_APP\protocol.c</path>
+        <encoding>GB2312</encoding>
+    </override>
+    <override>
+        <path>E:\RFID\CORTEX_M0_STM32F030_IAR\Projects\STM32F0xx_APP\src\crc_soft.c</path>
+        <encoding>GB2312</encoding>
+    </override>
+    <override>
+        <path>E:\RFID\CORTEX_M0_STM32F030_IAR\Projects\STM32F0xx_APP\src\e2prom.c</path>
+        <encoding>GB2312</encoding>
+    </override>
+    <override>
+        <path>E:\RFID\CORTEX_M0_STM32F030_IAR\Projects\STM32F0xx_APP\src\gprs.c</path>
+        <encoding>GB2312</encoding>
+    </override>
+    <override>
+        <path>E:\RFID\CORTEX_M0_STM32F030_IAR\Projects\STM32F0xx_APP\src\main.c</path>
+        <encoding>GB2312</encoding>
+    </override>
+    <override>
+        <path>E:\RFID\CORTEX_M0_STM32F030_IAR\Projects\STM32F0xx_APP\src\rtc.c</path>
+        <encoding>GB2312</encoding>
+    </override>
+    <override>
+        <path>E:\RFID\CORTEX_M0_STM32F030_IAR\Utilities\STM32_EVAL\STM320518_EVAL\stm320518_eval.h</path>
+        <encoding>GB2312</encoding>
+    </override>
+</userOverrides>
